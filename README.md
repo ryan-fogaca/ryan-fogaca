@@ -1,25 +1,30 @@
-# hey, i'm Ryan Fogaça!
+# wassup, i'm Ryan Fogaça! 😎
 
-<p align="center">
-  <img src="assets/kanye.gif" width="500"/>
-</p>
+<img src="assets/kanye.gif" width="500"/>
 
 ### data engineer
 
-data professional with **2+ years of experience**.
+i've been working with data for 2+ years, mostly messing around with Python, SQL, ETL and anything that makes data flow better.
 
-i enjoy solving problems, automating things, and optimizing those SQL queries that somehow take **2 days to run**. 💪
+i'm really into solving problems, automating boring stuff and fixing those SQL queries that somehow take 2 business days to run. 💀
 
-software engineering student at **UniSenai PR**.
+currently studying Software Engineering at UniSenai PR and diving deeper into the data engineering world.
+
+basically, if there's data involved, i'm probably down to figure it out.
 
 ## tools and technologies
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="45" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="45" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="45" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="45" />
 </div>
 
