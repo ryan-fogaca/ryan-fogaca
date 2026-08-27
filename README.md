@@ -1,6 +1,8 @@
 # hey, i'm Ryan Fogaça!
 
-<img src="URL_DIRETA_DO_GIF.gif" width="500"/>
+<p align="center">
+  <img src="assets/kanye.gif" width="500"/>
+</p>
 
 ### data engineer
 
